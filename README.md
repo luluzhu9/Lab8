@@ -1,4 +1,1 @@
-# Lab8
-
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+Zilu Zhu (A15454681) Richard Duong (A14850659)
